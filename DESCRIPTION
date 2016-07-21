@@ -1,0 +1,20 @@
+Package: poismap
+Title: Map Utility Functions from Poisson Consulting
+Version: 0.0.0.9000
+Authors@R: person("Joe", "Thorley", email = "joe@poissonconsulting.ca", role = c("aut", "cre"))
+Description: Map Utility Functions from Poisson Consulting.
+Depends:
+    R (>= 3.3.1)
+Imports:
+    broom,
+    datacheckr,
+    magrittr,
+    plotKML,
+    sp,
+    tibble
+Suggests:
+    testthat
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
