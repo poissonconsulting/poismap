@@ -12,6 +12,7 @@ Imports:
     lubridate,
     magrittr,
     plotKML,
+    rgdal,
     sp,
     tibble
 Suggests:
