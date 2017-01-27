@@ -1,6 +1,7 @@
 Package: poismap
 Title: Map Utility Functions from Poisson Consulting
-Version: 0.0.0.9000
+Version: 0.0.0.9001
+Date: 2017-01-27
 Authors@R: person("Joe", "Thorley", email = "joe@poissonconsulting.ca", role = c("aut", "cre"))
 Description: Map Utility Functions from Poisson Consulting.
 Depends:
