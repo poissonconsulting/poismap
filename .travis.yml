@@ -1,9 +1,9 @@
 language: R
 cache: packages
 
-r:
-  - release
-  - devel
+# https://github.com/travis-ci/travis-ci/issues/6850
+before_install:
+  Rscript -e 'update.packages(ask = FALSE)'
 
 r_packages:
   - covr
