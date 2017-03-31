@@ -14,12 +14,10 @@ Imports:
     plotKML,
     rgdal,
     sp,
-    sf (>= 0.4-2),
+    sf,
     tibble
 Suggests:
     testthat
-Remotes:
-    edzer/sf
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
