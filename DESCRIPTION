@@ -5,7 +5,8 @@ Date: 2017-03-31
 Authors@R: person("Joe", "Thorley", email = "joe@poissonconsulting.ca", role = c("aut", "cre"))
 Description: Map Utility Functions from Poisson Consulting.
 Depends:
-    R (>= 3.3.1)
+    R (>= 3.3.1),
+    sf
 Imports:
     broom,
     datacheckr,
@@ -14,7 +15,6 @@ Imports:
     plotKML,
     rgdal,
     sp,
-    sf,
     tibble
 Suggests:
     testthat
