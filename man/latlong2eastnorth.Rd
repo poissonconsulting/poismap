@@ -27,4 +27,3 @@ latlong2eastnorth(data, long = "Longitude", lat = "Latitude",
 By default convert latitudes and longitudes in the WGS84 geodatum to eastings and northings
 in BC Albers projection.
 }
-

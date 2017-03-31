@@ -23,4 +23,3 @@ latlong2kml(data, file = "plot.kml", label = "Site", long = "Longitude",
 \description{
 Latitude and Longitude to kml File.
 }
-
