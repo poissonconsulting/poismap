@@ -1,12 +1,13 @@
 Package: poismap
 Title: Map Utility Functions from Poisson Consulting
-Version: 0.0.0.9002
-Date: 2017-03-31
+Version: 0.0.0.9003
+Date: 2017-04-11
 Authors@R: person("Joe", "Thorley", email = "joe@poissonconsulting.ca", role = c("aut", "cre"))
 Description: Map Utility Functions from Poisson Consulting.
 Depends:
     R (>= 3.3.1),
-    sf
+    sf,
+    raster
 Imports:
     broom,
     datacheckr,
