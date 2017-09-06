@@ -14,5 +14,6 @@ knitr::opts_chunk$set(
 
 # poismap
 
-![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)
-[![Travis-CI Build Status](https://travis-ci.org/poissonconsulting/poismap.svg?branch=master)](https://travis-ci.org/poissonconsulting/poismap)
+[![stability-deprecated](https://img.shields.io/badge/stability-deprecated-red.svg)](https://github.com/joethorley/stability-badges#deprecated)
+
+Use [poisspatial](https://github.com/poissonconsulting/poisspatial) instead.
